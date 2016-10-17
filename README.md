@@ -39,3 +39,8 @@ git fetch origin master
 git branch 'name'
 git checkout 'name'
 git checkout -b 'name' // short hand
+// change stuff and commit
+// get master
+git checkout master
+git merge 'name'
+git branch -d 'name' // delete branch
