@@ -14,6 +14,23 @@ git remote -v
 git clone https://github.com/username/repository
 git status
 git diff
+
+git commit
+git commit -a -m 'added new benchmarks'
+
+
 git push
 
+// remove
+git rm
 
+// log
+git log
+
+//undo
+git reset HEAD CONTRIBUTING.md or git checkout -- CONTRIBUTING.md
+
+
+// remote update
+git push origin master
+git fetch origin master
