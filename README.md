@@ -35,6 +35,7 @@ git reset HEAD CONTRIBUTING.md or git checkout -- CONTRIBUTING.md
 git push origin master
 git fetch origin master
 
-//branching
+//branching (no quotes)
 git branch 'name'
 git checkout 'name'
+git checkout -b 'name' // short hand
