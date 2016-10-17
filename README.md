@@ -34,3 +34,7 @@ git reset HEAD CONTRIBUTING.md or git checkout -- CONTRIBUTING.md
 // remote update
 git push origin master
 git fetch origin master
+
+//branching
+git branch 'name'
+git checkout 'name'
