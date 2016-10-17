@@ -44,3 +44,7 @@ git checkout -b 'name' // short hand
 git checkout master
 git merge 'name'
 git branch -d 'name' // delete branch
+
+//get latest code from remote
+git fetch origin
+
