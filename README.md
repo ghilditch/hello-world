@@ -47,4 +47,5 @@ git branch -d 'name' // delete branch
 
 //get latest code from remote
 git fetch origin
+git merge origin
 
